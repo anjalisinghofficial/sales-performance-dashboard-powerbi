@@ -33,7 +33,7 @@ The goal of this project is to analyze sales data to:
 
 ### 🧾 Overall Performance
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
 
 * Total Sales, Quantity, Profit, and Ratings overview
 * High-level KPIs for quick business understanding
