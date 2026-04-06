@@ -111,8 +111,3 @@ The goal of this project is to analyze sales data to:
 
 This dashboard provides a comprehensive view of sales performance and helps in identifying trends, patterns, and opportunities for growth. It enables data-driven decision-making through clear visual insights.
 
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
