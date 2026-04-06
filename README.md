@@ -40,33 +40,6 @@ The goal of this project is to analyze sales data to:
 
 ---
 
-### 📅 Sales Trends Analysis
-
-![Sales Trends](task2_task3.png)
-
-* Monthly sales comparison
-* Hourly sales distribution (peak hours identified)
-
----
-
-### 📈 Product & Weekly Insights
-
-![Product Analysis](task4_task5.png)
-
-* Sales by product line
-* Peak sales days of the week
-
----
-
-### 👥 Customer & Location Insights
-
-![Customer Insights](task6.png)
-
-* Sales by gender and product line
-* Sales distribution across cities
-
----
-
 ### 🔍 Key Insights
 
 ![Insights](insight.png)
